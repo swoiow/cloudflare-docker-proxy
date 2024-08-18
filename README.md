@@ -1,4 +1,4 @@
-# Cloudflare Docker Proxy
+# Cloudflare Docker Registry Proxy
 
 ## 概述
 
@@ -94,7 +94,7 @@
 
 ---
 
-# Docker Registry Proxy
+# English Version
 
 ## Overview
 
