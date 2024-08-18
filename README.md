@@ -2,7 +2,7 @@
 
 ## 概述
 
-本项目是一个基于Cloudflare Workers反代Docker上游的服务。它将请求路由到不同的Docker注册表，处理身份验证，并执行必要的重定向，特别是针对DockerHub Image。
+本项目是一个基于Cloudflare Workers反代Docker上游的服务。它将请求路由到不同的Docker Registry，处理身份验证，并执行必要的重定向，特别是针对DockerHub Image。
 
 ## 特性
 
